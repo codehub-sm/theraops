@@ -6,6 +6,9 @@ anthropic>=0.39.0
 # Google Places API
 googlemaps>=4.10.0
 
+# Airtable
+pyairtable>=2.3.0
+
 # Email
 secure-smtplib>=0.1.1
 
