@@ -1,0 +1,36 @@
+# TheraFlow Marketing Automation - Dependencies
+
+# Claude API
+anthropic>=0.39.0
+
+# Google Places API
+googlemaps>=4.10.0
+
+# Email
+secure-smtplib>=0.1.1
+
+# Gmail API (for reply monitoring)
+google-api-python-client>=2.111.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+
+# Data handling
+pandas>=2.1.0
+
+# HTTP requests
+requests>=2.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Scheduling
+schedule>=1.2.0
+
+# CSV/JSON (stdlib, listed for clarity)
+# csv, json - included in Python stdlib
+
+# Logging
+colorlog>=6.8.0
+
+# Jinja2 for email templates
+Jinja2>=3.1.2
