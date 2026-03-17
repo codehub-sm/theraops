@@ -1,1 +1,227 @@
-{}
+[
+  {
+    "id": 1,
+    "pain": "Your front desk calls 12-15 parents every morning to confirm appointments because there is no automated reminder system, wasting 2 hours daily on a task that a simple SMS could handle.",
+    "emotional_trigger": "frustrated",
+    "who_feels_it_most": "front_desk",
+    "theraflow_hook": "TheraFlow sends automated WhatsApp and SMS reminders 24 hours and 1 hour before each appointment, cutting no-shows by 40%.",
+    "content_angle": "stat",
+    "severity": 5
+  },
+  {
+    "id": 2,
+    "pain": "A parent cancels 30 minutes before a speech therapy session and that slot goes empty because there is no waitlist system to instantly offer it to another family.",
+    "emotional_trigger": "helpless",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow's smart waitlist auto-offers cancelled slots to the next family in line via WhatsApp, so no revenue is lost.",
+    "content_angle": "story",
+    "severity": 5
+  },
+  {
+    "id": 3,
+    "pain": "Your receptionist juggles a paper register and WhatsApp messages to schedule 6 therapists across 40+ weekly slots, and double-bookings still happen every other week.",
+    "emotional_trigger": "overwhelmed",
+    "who_feels_it_most": "front_desk",
+    "theraflow_hook": "TheraFlow's drag-and-drop calendar shows real-time availability across all therapists, making double-bookings impossible.",
+    "content_angle": "comparison",
+    "severity": 4
+  },
+  {
+    "id": 4,
+    "pain": "Parents ask 'how is my child doing?' and your therapists fumble through handwritten notes or give vague verbal updates because there is no structured progress report to share.",
+    "emotional_trigger": "embarrassed",
+    "who_feels_it_most": "therapist",
+    "theraflow_hook": "TheraFlow auto-generates visual progress reports from session data that therapists can share with parents in one click.",
+    "content_angle": "story",
+    "severity": 5
+  },
+  {
+    "id": 5,
+    "pain": "A parent complains on Google Reviews that they were never told about their child's regression in fine motor skills — the OT knew but it never reached the parent because there is no communication trail.",
+    "emotional_trigger": "anxious",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow's parent portal gives families real-time visibility into goals, milestones, and session summaries so nothing falls through the cracks.",
+    "content_angle": "story",
+    "severity": 4
+  },
+  {
+    "id": 6,
+    "pain": "You spend Sunday evenings calling parents who haven't visited in 3 weeks because you have no system to flag dropoffs — by the time you notice, the family has already switched to another center.",
+    "emotional_trigger": "helpless",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow flags at-risk families automatically when attendance drops below threshold and triggers a re-engagement workflow.",
+    "content_angle": "question",
+    "severity": 4
+  },
+  {
+    "id": 7,
+    "pain": "Parents receive inconsistent updates — the speech therapist texts on WhatsApp, the OT writes in a notebook, and the ABA therapist sends nothing — making your center look disorganized.",
+    "emotional_trigger": "embarrassed",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow standardizes all parent communication through a single branded portal with unified session notes and progress updates.",
+    "content_angle": "comparison",
+    "severity": 4
+  },
+  {
+    "id": 8,
+    "pain": "Your speech therapist discovers that a child's OT goals conflict with their speech goals, but only finds out 3 weeks later because therapists don't have a shared view of the child's plan.",
+    "emotional_trigger": "frustrated",
+    "who_feels_it_most": "therapist",
+    "theraflow_hook": "TheraFlow gives every therapist a shared, real-time view of each child's goals across all therapy types so plans stay aligned.",
+    "content_angle": "myth_bust",
+    "severity": 5
+  },
+  {
+    "id": 9,
+    "pain": "When a therapist goes on leave, the substitute has no idea what was covered in the last 4 sessions because handover notes are verbal or nonexistent.",
+    "emotional_trigger": "overwhelmed",
+    "who_feels_it_most": "therapist",
+    "theraflow_hook": "TheraFlow's session history and goal tracker lets any substitute therapist pick up exactly where the last one left off.",
+    "content_angle": "question",
+    "severity": 5
+  },
+  {
+    "id": 10,
+    "pain": "Your ABA therapist and speech therapist disagree on a child's readiness for mainstream schooling, but there is no shared data or outcome tracking to ground the conversation in evidence.",
+    "emotional_trigger": "frustrated",
+    "who_feels_it_most": "therapist",
+    "theraflow_hook": "TheraFlow's outcome dashboards give every therapist objective, data-driven views of a child's progress to align clinical decisions.",
+    "content_angle": "stat",
+    "severity": 3
+  },
+  {
+    "id": 11,
+    "pain": "A child sees 3 different therapists at your center but each one sets goals independently — nobody is looking at the whole child, and parents notice the fragmentation.",
+    "emotional_trigger": "embarrassed",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow's integrated care plan lets all therapists collaborate on a unified set of goals for each child, visible to parents.",
+    "content_angle": "story",
+    "severity": 4
+  },
+  {
+    "id": 12,
+    "pain": "Therapists spend 20 minutes after every session writing SOAP notes on paper, and half the time the notes are illegible or incomplete when you need them for insurance claims.",
+    "emotional_trigger": "frustrated",
+    "who_feels_it_most": "therapist",
+    "theraflow_hook": "TheraFlow's guided SOAP note templates let therapists complete documentation in 3 minutes with structured dropdowns and auto-fill.",
+    "content_angle": "stat",
+    "severity": 5
+  },
+  {
+    "id": 13,
+    "pain": "You need to pull 6 months of session notes for an insurance audit and your admin spends 2 full days digging through paper files and WhatsApp messages to piece it together.",
+    "emotional_trigger": "anxious",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow stores all clinical documentation digitally and generates audit-ready reports with one click.",
+    "content_angle": "comparison",
+    "severity": 4
+  },
+  {
+    "id": 14,
+    "pain": "Your therapists copy-paste the same generic phrases into every child's notes because they don't have time to write individualized observations, making documentation clinically useless.",
+    "emotional_trigger": "helpless",
+    "who_feels_it_most": "therapist",
+    "theraflow_hook": "TheraFlow's AI-assisted notes suggest individualized observations based on the child's goals and session activities.",
+    "content_angle": "myth_bust",
+    "severity": 4
+  },
+  {
+    "id": 15,
+    "pain": "You charge different rates for OT, speech, and ABA — but your billing is done in a single Excel sheet that doesn't separate therapy types, making monthly reconciliation a nightmare.",
+    "emotional_trigger": "overwhelmed",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow tracks billing per therapy type, per child, with automated invoicing that separates every service cleanly.",
+    "content_angle": "comparison",
+    "severity": 4
+  },
+  {
+    "id": 16,
+    "pain": "Parents dispute invoices because they say their child attended 8 sessions but you billed for 10, and you have no attendance-linked billing to prove it either way.",
+    "emotional_trigger": "embarrassed",
+    "who_feels_it_most": "front_desk",
+    "theraflow_hook": "TheraFlow links every invoice to actual attendance records so billing disputes are resolved with one click.",
+    "content_angle": "story",
+    "severity": 4
+  },
+  {
+    "id": 17,
+    "pain": "You offer therapy packages (buy 10 sessions, get 1 free) but tracking which families have used how many sessions is a manual spreadsheet nightmare that leads to revenue leakage.",
+    "emotional_trigger": "frustrated",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow automatically tracks package usage, alerts before expiry, and prompts renewal — no spreadsheets needed.",
+    "content_angle": "question",
+    "severity": 3
+  },
+  {
+    "id": 18,
+    "pain": "You have no idea which therapist called in sick until the morning WhatsApp group blows up, and by then 6 parents are already on their way to the center for sessions that won't happen.",
+    "emotional_trigger": "anxious",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow's attendance system logs therapist availability in advance and auto-notifies affected families if a session needs rescheduling.",
+    "content_angle": "story",
+    "severity": 5
+  },
+  {
+    "id": 19,
+    "pain": "You suspect one of your therapists is consistently starting sessions 15 minutes late but you have no data to address it — only parent complaints that surface weeks later.",
+    "emotional_trigger": "frustrated",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow logs session start and end times automatically, giving you data to have objective performance conversations.",
+    "content_angle": "stat",
+    "severity": 3
+  },
+  {
+    "id": 20,
+    "pain": "You run a 10-therapist center but have no dashboard — you find out about problems only when a parent escalates or a therapist quits, because you're always the last to know.",
+    "emotional_trigger": "helpless",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow's owner dashboard shows real-time metrics: attendance, revenue, therapist utilization, and at-risk families in one view.",
+    "content_angle": "question",
+    "severity": 5
+  },
+  {
+    "id": 21,
+    "pain": "You have no idea what your center's actual utilization rate is — how many slots are filled vs empty — so you can't tell if you need to hire another therapist or are overstaffed.",
+    "emotional_trigger": "anxious",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow calculates therapist utilization rates automatically and alerts you when capacity thresholds are crossed.",
+    "content_angle": "stat",
+    "severity": 4
+  },
+  {
+    "id": 22,
+    "pain": "You opened a second branch but managing two locations with separate WhatsApp groups, paper files, and Excel sheets means you spend half your week just context-switching.",
+    "emotional_trigger": "overwhelmed",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow's multi-location support lets you manage all branches from a single dashboard with unified reporting.",
+    "content_angle": "comparison",
+    "severity": 4
+  },
+  {
+    "id": 23,
+    "pain": "Filing RPWD (Rights of Persons with Disabilities) documentation for families requires assembling therapy records across months, and your paper-based system makes this a 2-day ordeal per child.",
+    "emotional_trigger": "overwhelmed",
+    "who_feels_it_most": "front_desk",
+    "theraflow_hook": "TheraFlow compiles all required therapy records into RPWD-ready document bundles with a single export.",
+    "content_angle": "myth_bust",
+    "severity": 4
+  },
+  {
+    "id": 24,
+    "pain": "Insurance companies reject your claims because session notes don't meet their documentation standards, and you only find out after waiting 45 days for reimbursement.",
+    "emotional_trigger": "frustrated",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow's documentation templates are pre-aligned with major Indian insurance requirements so claims pass on the first submission.",
+    "content_angle": "story",
+    "severity": 5
+  },
+  {
+    "id": 25,
+    "pain": "You need to submit quarterly reports to your state disability commissioner but pulling aggregate data on children served, therapy hours delivered, and outcomes achieved takes a week of manual work.",
+    "emotional_trigger": "helpless",
+    "who_feels_it_most": "owner",
+    "theraflow_hook": "TheraFlow auto-generates government compliance reports with aggregate data on children served, hours delivered, and outcomes tracked.",
+    "content_angle": "stat",
+    "severity": 3
+  }
+]
